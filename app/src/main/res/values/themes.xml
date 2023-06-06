@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.NotepadApplication" parent="Base.Theme.NotepadApplication" />
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowSplashScreenBackground" tools:targetApi="s">@color/black</item>
+    </style>
 </resources>
