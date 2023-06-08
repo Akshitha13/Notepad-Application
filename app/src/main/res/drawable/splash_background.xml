@@ -5,11 +5,11 @@
         <!--this is your background, you can use color, gradient etc.-->
         <color android:color="@color/light_orange"/>
         <shape>
-              <gradient
-                   android:angle="315"
-                   android:endColor="#1a82ff"
-                   android:startColor="#2100d3"
-                   android:type="linear"/>
+            <gradient
+                android:angle="315"
+                android:endColor="#1a82ff"
+                android:startColor="#2100d3"
+                android:type="linear"/>
         </shape>
     </item>
     <item>

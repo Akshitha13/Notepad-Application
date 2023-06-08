@@ -6,10 +6,11 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_notes"
         android:label="@string/app_name"
-        android:supportsRtl="true"
         android:roundIcon="@drawable/ic_notes"
-        android:theme="@style/SplashTheme"
+        android:supportsRtl="true"
+        android:theme="@style/splashScreenTheme"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
